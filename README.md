@@ -71,13 +71,9 @@ Ensure you have the following installed:
 - **Anaconda** (https://www.anaconda.com/products/distribution)
 - **Jupyter Notebook** (comes with Anaconda)
 - **PuLP Library** (install via pip)
--
--```python
-!pip install pulp
-
 
 ### Installation
-Launch Jupyter Notebook and run the following command in a notebook cell (if PuLP is not already installed):
+Launch Jupyter Notebook and run the following command in a notebook cell (if PuLP is not already installed): pip install pulp
 
 
 <img width="1919" height="1009" alt="Image" src="https://github.com/user-attachments/assets/975d31a0-202b-4e3e-b557-b469bfcf039e" />
