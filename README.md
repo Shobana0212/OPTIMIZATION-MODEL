@@ -77,3 +77,5 @@ Launch Jupyter Notebook and run the following command in a notebook cell (if PuL
 
 ```python
 !pip install pulp
+
+<img width="1919" height="1009" alt="Image" src="https://github.com/user-attachments/assets/975d31a0-202b-4e3e-b557-b469bfcf039e" />
